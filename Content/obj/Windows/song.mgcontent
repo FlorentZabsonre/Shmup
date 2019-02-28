@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/hp/source/repos/Shmup/Shmup/Content/song.mp3</SourceFile>
+  <SourceTime>2018-02-10T20:10:48.3931773+01:00</SourceTime>
+  <DestFile>C:/Users/hp/source/repos/Shmup/Shmup/Content/bin/Windows/song.xnb</DestFile>
+  <DestTime>2018-03-20T20:37:02.7406003+01:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2017-03-01T16:05:36+01:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2017-03-01T16:05:36+01:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/hp/source/repos/Shmup/Shmup/Content/bin/Windows/song.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>

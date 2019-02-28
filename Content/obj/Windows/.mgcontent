@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/hp/source/repos/Shmup/Shmup/Content/ship_bullets.png</File>
+    <File>C:/Users/hp/source/repos/Shmup/Shmup/Content/explosionShip.png</File>
+    <File>C:/Users/hp/source/repos/Shmup/Shmup/Content/blueEnemy.png</File>
+    <File>C:/Users/hp/source/repos/Shmup/Shmup/Content/blueExplosion.png</File>
+    <File>C:/Users/hp/source/repos/Shmup/Shmup/Content/redExplosion.png</File>
+    <File>C:/Users/hp/source/repos/Shmup/Shmup/Content/yellowExplosion.png</File>
+    <File>C:/Users/hp/source/repos/Shmup/Shmup/Content/greenExplosion.png</File>
+    <File>C:/Users/hp/source/repos/Shmup/Shmup/Content/laserShip.wav</File>
+    <File>C:/Users/hp/source/repos/Shmup/Shmup/Content/beam.wav</File>
+    <File>C:/Users/hp/source/repos/Shmup/Shmup/Content/greenLaser.wav</File>
+    <File>C:/Users/hp/source/repos/Shmup/Shmup/Content/explosion.wav</File>
+    <File>C:/Users/hp/source/repos/Shmup/Shmup/Content/score.spritefont</File>
+    <File>C:/Users/hp/source/repos/Shmup/Shmup/Content/greenEnemy.png</File>
+    <File>C:/Users/hp/source/repos/Shmup/Shmup/Content/ennemies_bullets.png</File>
+    <File>C:/Users/hp/source/repos/Shmup/Shmup/Content/blueLaser.wav</File>
+    <File>C:/Users/hp/source/repos/Shmup/Shmup/Content/song.mp3</File>
+    <File>C:/Users/hp/source/repos/Shmup/Shmup/Content/bluebullet_special.png</File>
+    <File>C:/Users/hp/source/repos/Shmup/Shmup/Content/Laser.png</File>
+    <File>C:/Users/hp/source/repos/Shmup/Shmup/Content/ship.png</File>
+    <File>C:/Users/hp/source/repos/Shmup/Shmup/Content/explosion-02.wav</File>
+    <File>C:/Users/hp/source/repos/Shmup/Shmup/Content/explosion-01.wav</File>
+    <File>C:/Users/hp/source/repos/Shmup/Shmup/Content/explosion-03.wav</File>
+    <File>C:/Users/hp/source/repos/Shmup/Shmup/Content/explosion-04.wav</File>
+    <File>C:/Users/hp/source/repos/Shmup/Shmup/Content/play.png</File>
+    <File>C:/Users/hp/source/repos/Shmup/Shmup/Content/scores.png</File>
+    <File>C:/Users/hp/source/repos/Shmup/Shmup/Content/Menu.mp3</File>
+    <File>C:/Users/hp/source/repos/Shmup/Shmup/Content/MenuFont.spritefont</File>
+    <File>C:/Users/hp/source/repos/Shmup/Shmup/Content/bg.jpg</File>
+    <File>C:/Users/hp/source/repos/Shmup/Shmup/Content/FontTitle.spritefont</File>
+    <File>C:/Users/hp/source/repos/Shmup/Shmup/Content/FontTitle2.spritefont</File>
+    <File>C:/Users/hp/source/repos/Shmup/Shmup/Content/redEnemy.png</File>
+    <File>C:/Users/hp/source/repos/Shmup/Shmup/Content/yellowEnemy.png</File>
+    <File>C:/Users/hp/source/repos/Shmup/Shmup/Content/redLaser.wav</File>
+    <File>C:/Users/hp/source/repos/Shmup/Shmup/Content/yellowLaser.wav</File>
+    <File>C:/Users/hp/source/repos/Shmup/Shmup/Content/line.png</File>
+    <File>C:/Users/hp/source/repos/Shmup/Shmup/Content/minion.png</File>
+    <File>C:/Users/hp/source/repos/Shmup/Shmup/Content/explosion-05.wav</File>
+  </SourceFiles>
+</SourceFileCollection>

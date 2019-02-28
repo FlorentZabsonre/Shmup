@@ -1,0 +1,191 @@
+C:\Users\Kyon\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\Shmup.exe
+C:\Users\Kyon\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\Shmup.pdb
+C:\Users\Kyon\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Kyon\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Kyon\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Kyon\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Kyon\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Kyon\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Kyon\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Kyon\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Kyon\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Kyon\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Kyon\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Kyon\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Kyon\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Kyon\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Kyon\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Kyon\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Kyon\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Kyon\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Kyon\source\repos\Shmup\Shmup\obj\x86\Debug\Shmup.csprojResolveAssemblyReference.cache
+C:\Users\Kyon\source\repos\Shmup\Shmup\obj\x86\Debug\Shmup.csproj.CoreCompileInputs.cache
+C:\Users\Kyon\source\repos\Shmup\Shmup\obj\x86\Debug\Shmup.exe
+C:\Users\Kyon\source\repos\Shmup\Shmup\obj\x86\Debug\Shmup.pdb
+C:\Users\Kyon\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\Content\ship.xnb
+C:\Users\Kyon\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\Content\greenEnemy.xnb
+C:\Users\Kyon\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\Content\bg.xnb
+C:\Users\Kyon\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\Content\ship_bullets.xnb
+C:\Users\Kyon\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\Content\ennemies_bullets.xnb
+C:\Users\Kyon\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\Content\yellowEnemy.xnb
+C:\Users\Kyon\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\Content\blueEnemy.xnb
+C:\Users\Kyon\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\Content\redEnemy.xnb
+C:\Users\Kyon\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\Content\explosionShip.xnb
+C:\Users\Kyon\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\Content\blueExplosion.xnb
+C:\Users\Kyon\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\Content\redExplosion.xnb
+C:\Users\Kyon\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\Content\yellowExplosion.xnb
+C:\Users\Kyon\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\Content\greenExplosion.xnb
+C:\Users\Kyon\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\Content\laserShip.xnb
+C:\Users\Kyon\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\Content\beam.xnb
+C:\Users\Kyon\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\Content\greenLaser.xnb
+C:\Users\Kyon\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\Content\explosion.xnb
+C:\Users\Kyon\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\Content\score.xnb
+C:\Users\Kyon\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\Content\bluebullet_special.xnb
+C:\Users\Kyon\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\Content\blueLaser.xnb
+C:\Users\Kyon\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\Content\Song.xnb
+C:\Users\Kyon\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\Content\song.wma
+C:\Users\Kyon\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\Content\Laser.xnb
+C:\Users\Kyon\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\Content\explosion-02.xnb
+C:\Users\Kyon\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\Content\explosion-01.xnb
+C:\Users\Kyon\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\Content\explosion-03.xnb
+C:\Users\Kyon\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\Content\explosion-04.xnb
+C:\Users\Kyon\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\Content\play.xnb
+C:\Users\Kyon\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\Content\scores.xnb
+C:\Users\Kyon\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\Content\Menu.wma
+C:\Users\Kyon\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\Content\Menu.xnb
+C:\Users\Kyon\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\Content\MenuFont.xnb
+C:\Users\Bardiot Maxime\Documents\Visual Studio 2017\Projects\Shmup\Shmup\bin\Windows\x86\Debug\Content\beam.xnb
+C:\Users\Bardiot Maxime\Documents\Visual Studio 2017\Projects\Shmup\Shmup\bin\Windows\x86\Debug\Content\bluebullet_special.xnb
+C:\Users\Bardiot Maxime\Documents\Visual Studio 2017\Projects\Shmup\Shmup\bin\Windows\x86\Debug\Content\blueEnemy.xnb
+C:\Users\Bardiot Maxime\Documents\Visual Studio 2017\Projects\Shmup\Shmup\bin\Windows\x86\Debug\Content\blueExplosion.xnb
+C:\Users\Bardiot Maxime\Documents\Visual Studio 2017\Projects\Shmup\Shmup\bin\Windows\x86\Debug\Content\blueLaser.xnb
+C:\Users\Bardiot Maxime\Documents\Visual Studio 2017\Projects\Shmup\Shmup\bin\Windows\x86\Debug\Content\ennemies_bullets.xnb
+C:\Users\Bardiot Maxime\Documents\Visual Studio 2017\Projects\Shmup\Shmup\bin\Windows\x86\Debug\Content\explosion-01.xnb
+C:\Users\Bardiot Maxime\Documents\Visual Studio 2017\Projects\Shmup\Shmup\bin\Windows\x86\Debug\Content\explosion-02.xnb
+C:\Users\Bardiot Maxime\Documents\Visual Studio 2017\Projects\Shmup\Shmup\bin\Windows\x86\Debug\Content\explosion-03.xnb
+C:\Users\Bardiot Maxime\Documents\Visual Studio 2017\Projects\Shmup\Shmup\bin\Windows\x86\Debug\Content\explosion-04.xnb
+C:\Users\Bardiot Maxime\Documents\Visual Studio 2017\Projects\Shmup\Shmup\bin\Windows\x86\Debug\Content\explosion.xnb
+C:\Users\Bardiot Maxime\Documents\Visual Studio 2017\Projects\Shmup\Shmup\bin\Windows\x86\Debug\Content\explosionShip.xnb
+C:\Users\Bardiot Maxime\Documents\Visual Studio 2017\Projects\Shmup\Shmup\bin\Windows\x86\Debug\Content\greenEnemy.xnb
+C:\Users\Bardiot Maxime\Documents\Visual Studio 2017\Projects\Shmup\Shmup\bin\Windows\x86\Debug\Content\greenExplosion.xnb
+C:\Users\Bardiot Maxime\Documents\Visual Studio 2017\Projects\Shmup\Shmup\bin\Windows\x86\Debug\Content\greenLaser.xnb
+C:\Users\Bardiot Maxime\Documents\Visual Studio 2017\Projects\Shmup\Shmup\bin\Windows\x86\Debug\Content\Laser.xnb
+C:\Users\Bardiot Maxime\Documents\Visual Studio 2017\Projects\Shmup\Shmup\bin\Windows\x86\Debug\Content\laserShip.xnb
+C:\Users\Bardiot Maxime\Documents\Visual Studio 2017\Projects\Shmup\Shmup\bin\Windows\x86\Debug\Content\Menu.wma
+C:\Users\Bardiot Maxime\Documents\Visual Studio 2017\Projects\Shmup\Shmup\bin\Windows\x86\Debug\Content\Menu.xnb
+C:\Users\Bardiot Maxime\Documents\Visual Studio 2017\Projects\Shmup\Shmup\bin\Windows\x86\Debug\Content\MenuFont.xnb
+C:\Users\Bardiot Maxime\Documents\Visual Studio 2017\Projects\Shmup\Shmup\bin\Windows\x86\Debug\Content\play.xnb
+C:\Users\Bardiot Maxime\Documents\Visual Studio 2017\Projects\Shmup\Shmup\bin\Windows\x86\Debug\Content\redEnemy.xnb
+C:\Users\Bardiot Maxime\Documents\Visual Studio 2017\Projects\Shmup\Shmup\bin\Windows\x86\Debug\Content\redExplosion.xnb
+C:\Users\Bardiot Maxime\Documents\Visual Studio 2017\Projects\Shmup\Shmup\bin\Windows\x86\Debug\Content\score.xnb
+C:\Users\Bardiot Maxime\Documents\Visual Studio 2017\Projects\Shmup\Shmup\bin\Windows\x86\Debug\Content\scores.xnb
+C:\Users\Bardiot Maxime\Documents\Visual Studio 2017\Projects\Shmup\Shmup\bin\Windows\x86\Debug\Content\ship.xnb
+C:\Users\Bardiot Maxime\Documents\Visual Studio 2017\Projects\Shmup\Shmup\bin\Windows\x86\Debug\Content\ship_bullets.xnb
+C:\Users\Bardiot Maxime\Documents\Visual Studio 2017\Projects\Shmup\Shmup\bin\Windows\x86\Debug\Content\song.wma
+C:\Users\Bardiot Maxime\Documents\Visual Studio 2017\Projects\Shmup\Shmup\bin\Windows\x86\Debug\Content\song.xnb
+C:\Users\Bardiot Maxime\Documents\Visual Studio 2017\Projects\Shmup\Shmup\bin\Windows\x86\Debug\Content\yellowEnemy.xnb
+C:\Users\Bardiot Maxime\Documents\Visual Studio 2017\Projects\Shmup\Shmup\bin\Windows\x86\Debug\Content\yellowExplosion.xnb
+C:\Users\Bardiot Maxime\Documents\Visual Studio 2017\Projects\Shmup\Shmup\bin\Windows\x86\Debug\Shmup.exe
+C:\Users\Bardiot Maxime\Documents\Visual Studio 2017\Projects\Shmup\Shmup\bin\Windows\x86\Debug\Shmup.pdb
+C:\Users\Bardiot Maxime\Documents\Visual Studio 2017\Projects\Shmup\Shmup\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Bardiot Maxime\Documents\Visual Studio 2017\Projects\Shmup\Shmup\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Bardiot Maxime\Documents\Visual Studio 2017\Projects\Shmup\Shmup\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Bardiot Maxime\Documents\Visual Studio 2017\Projects\Shmup\Shmup\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Bardiot Maxime\Documents\Visual Studio 2017\Projects\Shmup\Shmup\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Bardiot Maxime\Documents\Visual Studio 2017\Projects\Shmup\Shmup\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Bardiot Maxime\Documents\Visual Studio 2017\Projects\Shmup\Shmup\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Bardiot Maxime\Documents\Visual Studio 2017\Projects\Shmup\Shmup\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Bardiot Maxime\Documents\Visual Studio 2017\Projects\Shmup\Shmup\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Bardiot Maxime\Documents\Visual Studio 2017\Projects\Shmup\Shmup\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Bardiot Maxime\Documents\Visual Studio 2017\Projects\Shmup\Shmup\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Bardiot Maxime\Documents\Visual Studio 2017\Projects\Shmup\Shmup\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Bardiot Maxime\Documents\Visual Studio 2017\Projects\Shmup\Shmup\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Bardiot Maxime\Documents\Visual Studio 2017\Projects\Shmup\Shmup\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Bardiot Maxime\Documents\Visual Studio 2017\Projects\Shmup\Shmup\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Bardiot Maxime\Documents\Visual Studio 2017\Projects\Shmup\Shmup\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Bardiot Maxime\Documents\Visual Studio 2017\Projects\Shmup\Shmup\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Bardiot Maxime\Documents\Visual Studio 2017\Projects\Shmup\Shmup\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Bardiot Maxime\Documents\Visual Studio 2017\Projects\Shmup\Shmup\obj\x86\Debug\Shmup.csprojResolveAssemblyReference.cache
+C:\Users\Bardiot Maxime\Documents\Visual Studio 2017\Projects\Shmup\Shmup\obj\x86\Debug\Shmup.csproj.CoreCompileInputs.cache
+C:\Users\Bardiot Maxime\Documents\Visual Studio 2017\Projects\Shmup\Shmup\obj\x86\Debug\Shmup.exe
+C:\Users\Bardiot Maxime\Documents\Visual Studio 2017\Projects\Shmup\Shmup\obj\x86\Debug\Shmup.pdb
+C:\Users\Bardiot Maxime\Documents\Visual Studio 2017\Projects\Shmup\Shmup\bin\Windows\x86\Debug\Content\minion.xnb
+C:\Users\Bardiot Maxime\Documents\Visual Studio 2017\Projects\Shmup\Shmup\bin\Windows\x86\Debug\Content\bg.xnb
+C:\Users\Kyon\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\Content\minion.xnb
+C:\Users\Kyon\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\Content\FontTitle.xnb
+C:\Users\Kyon\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\Content\FontTitle2.xnb
+C:\Users\Kyon\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\Content\redLaser.xnb
+C:\Users\Kyon\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\Content\yellowLaser.xnb
+C:\Users\Kyon\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\Content\line.xnb
+C:\Users\Bardiot Maxime\Documents\Visual Studio 2017\Projects\Shmup\Shmup\bin\Windows\x86\Debug\Content\FontTitle.xnb
+C:\Users\Bardiot Maxime\Documents\Visual Studio 2017\Projects\Shmup\Shmup\bin\Windows\x86\Debug\Content\FontTitle2.xnb
+C:\Users\Bardiot Maxime\Documents\Visual Studio 2017\Projects\Shmup\Shmup\bin\Windows\x86\Debug\Content\line.xnb
+C:\Users\Bardiot Maxime\Documents\Visual Studio 2017\Projects\Shmup\Shmup\bin\Windows\x86\Debug\Content\redLaser.xnb
+C:\Users\Bardiot Maxime\Documents\Visual Studio 2017\Projects\Shmup\Shmup\bin\Windows\x86\Debug\Content\yellowLaser.xnb
+C:\Users\Kyon\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\Content\explosion-05.xnb
+C:\Users\Kyon\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\Content\FontScore.xnb
+C:\Users\hp\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\Content\FontScore.xnb
+C:\Users\hp\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\Content\beam.xnb
+C:\Users\hp\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\Content\bg.xnb
+C:\Users\hp\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\Content\bluebullet_special.xnb
+C:\Users\hp\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\Content\blueEnemy.xnb
+C:\Users\hp\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\Content\blueExplosion.xnb
+C:\Users\hp\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\Content\blueLaser.xnb
+C:\Users\hp\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\Content\ennemies_bullets.xnb
+C:\Users\hp\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\Content\explosion-01.xnb
+C:\Users\hp\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\Content\explosion-02.xnb
+C:\Users\hp\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\Content\explosion-03.xnb
+C:\Users\hp\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\Content\explosion-04.xnb
+C:\Users\hp\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\Content\explosion-05.xnb
+C:\Users\hp\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\Content\explosion.xnb
+C:\Users\hp\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\Content\explosionShip.xnb
+C:\Users\hp\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\Content\FontTitle.xnb
+C:\Users\hp\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\Content\FontTitle2.xnb
+C:\Users\hp\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\Content\greenEnemy.xnb
+C:\Users\hp\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\Content\greenExplosion.xnb
+C:\Users\hp\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\Content\greenLaser.xnb
+C:\Users\hp\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\Content\Laser.xnb
+C:\Users\hp\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\Content\laserShip.xnb
+C:\Users\hp\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\Content\line.xnb
+C:\Users\hp\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\Content\Menu.wma
+C:\Users\hp\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\Content\Menu.xnb
+C:\Users\hp\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\Content\MenuFont.xnb
+C:\Users\hp\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\Content\minion.xnb
+C:\Users\hp\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\Content\play.xnb
+C:\Users\hp\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\Content\redEnemy.xnb
+C:\Users\hp\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\Content\redExplosion.xnb
+C:\Users\hp\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\Content\redLaser.xnb
+C:\Users\hp\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\Content\score.xnb
+C:\Users\hp\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\Content\scores.xnb
+C:\Users\hp\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\Content\ship.xnb
+C:\Users\hp\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\Content\ship_bullets.xnb
+C:\Users\hp\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\Content\song.wma
+C:\Users\hp\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\Content\song.xnb
+C:\Users\hp\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\Content\yellowEnemy.xnb
+C:\Users\hp\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\Content\yellowExplosion.xnb
+C:\Users\hp\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\Content\yellowLaser.xnb
+C:\Users\hp\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\Shmup.exe
+C:\Users\hp\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\Shmup.pdb
+C:\Users\hp\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\hp\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\hp\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\hp\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\hp\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\hp\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\hp\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\hp\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\hp\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\hp\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\hp\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\hp\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\hp\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\hp\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\hp\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\hp\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\hp\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\hp\source\repos\Shmup\Shmup\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\hp\source\repos\Shmup\Shmup\obj\x86\Debug\Shmup.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Shmup\Shmup\obj\x86\Debug\Shmup.csproj.CopyComplete
+C:\Users\hp\source\repos\Shmup\Shmup\obj\x86\Debug\Shmup.exe
+C:\Users\hp\source\repos\Shmup\Shmup\obj\x86\Debug\Shmup.pdb
+C:\Users\hp\source\repos\Shmup\Shmup\obj\x86\Debug\Shmup.csprojAssemblyReference.cache
